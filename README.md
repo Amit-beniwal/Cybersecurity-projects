@@ -1,4 +1,4 @@
-# Cybersecurity Skills - Entry-Level Cyber Security Analyst
+# Cybersecurity - Entry-Level Cyber Security Analyst
 
 ## Introduction
 Hello! I'm AMIT, an aspiring Cyber Security Analyst eager to embark on a fulfilling career in cybersecurity. As a recent graduate, I've acquired a foundational understanding of cybersecurity principles and hands-on experience through coursework, personal projects, and self-study.
