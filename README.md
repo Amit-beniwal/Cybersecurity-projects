@@ -25,6 +25,6 @@ Here's an overview of my skills and qualifications:
 I am actively seeking opportunities to launch my career in cybersecurity. My goal is to leverage my skills and knowledge to contribute to the security and integrity of organizations while continuously enhancing my expertise through real-world experience and ongoing professional development.
 
 ## Contact
-I'm excited to connect with fellow cybersecurity enthusiasts, professionals, and potential employers. You can reach me via [LinkedIn](https://www.linkedin.com/in/your-profile) or email at [your.email@example.com](amitbeniwal636@gmail.com).
+I'm excited to connect with fellow cybersecurity enthusiasts, professionals, and potential employers. You can reach me via [https://www.linkedin.com/in/your-profile] or email at[amitbeniwal636@gmail.com].
 
 Thank you for considering my skills and qualifications. I look forward to exploring opportunities and making a positive impact in the field of cybersecurity.
